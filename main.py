@@ -1,0 +1,5 @@
+finished_homework = (12)
+wasting_time = (1.5)
+course_name = ("Python")
+middle_time_f1HW = (wasting_time / finished_homework)
+print (('Курс: ' + course_name)+("; ")+('всего задач: '+ str (finished_homework ))+ ('; ') + ('затрачено часов: ') + str (wasting_time) + ('; ') + ('среднее время выполнения ') + str (middle_time_f1HW) + (' часа.'))
